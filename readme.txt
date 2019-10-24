@@ -1,3 +1,3 @@
 
-git checkout -b dev
+git checkout -b dev bug
 
