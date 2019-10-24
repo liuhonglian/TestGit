@@ -1,3 +1,3 @@
 
-git checkout -b feature1
+git checkout
 
