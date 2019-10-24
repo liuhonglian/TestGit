@@ -1,1 +1,3 @@
-checkout master
+
+git checkout -b feature1
+
