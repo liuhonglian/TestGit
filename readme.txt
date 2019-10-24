@@ -1,3 +1,3 @@
 
-git checkout dev
+git checkout -b dev
 
