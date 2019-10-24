@@ -1,1 +1,1 @@
-checkout dev
+git checkout -b feature1
